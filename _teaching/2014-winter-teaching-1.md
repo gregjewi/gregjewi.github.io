@@ -1,7 +1,7 @@
 ---
-title: "Graduate Student Instructor, Fluid Mechanics (CEE 325)"
+title: "Fluid Mechanics (CEE 325)"
 collection: teaching
-type: "class"
+type: "Graduate Student Instructor"
 permalink: /teaching/2014-winter-teaching-1
 venue: "University of Michigan, Civil and Environmental Engineering"
 date: 2014-01-01

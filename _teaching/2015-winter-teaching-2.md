@@ -1,8 +1,8 @@
 ---
-title: "Graduate Student Instructor, Introduction to Engineering (ENGR 100)"
+title: "Introduction to Engineering (ENGR 100)"
 collection: teaching
-type: "class"
-permalink: /teaching/2015-winter-teaching-1
+type: "Graduate Student Instructor"
+permalink: /teaching/2015-winter-teaching-2
 venue: "University of Michigan, College of Engineering"
 date: 2015-01-01
 location: "Ann Arbor, MI, USA"
