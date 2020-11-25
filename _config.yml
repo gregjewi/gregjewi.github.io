@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Greg Ewing"
 title_separator          : "-"
 name                     : &name "Greg Ewing"
-description              : &description "Hydrologist, Environmental Engineer, Taco Enthusiast\nUniversity of Iowa & University of Michigan"
+description              : &description "Hydrologist, Environmental Engineer, Taco Enthusiast; University of Iowa & University of Michigan"
 url                      : https://gregjewi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gregjewi/gregjewi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Greg Ewing"
   avatar           : "greg300.jpg"
-  bio              : "Hydrologist, Environmental Engineer, Taco Enthusiast\nUniversity of Iowa & University of Michigan"
+  bio              : "Hydrologist, Environmental Engineer, Taco Enthusiast; University of Iowa & University of Michigan"
   location         : "Iowa City, IA"
   employer         : "University of Iowa"
   pubmed           : 
