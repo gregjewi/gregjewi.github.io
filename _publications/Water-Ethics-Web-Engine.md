@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Water-Ethics-Web-Engine
 excerpt: 'This paper introduces an open web framework to build crowd-sourced decision models for ethical dilemmas in water resources.'
 date: 2020-06-23
-venue: 'Journal of Hydroinformatics'
+venue: '<i>[In Review]</i> Journal of Hydroinformatics'
 paperurl: 'https://doi.org/10.31223/osf.io/y873g'
 citation: '<b>Ewing, G.</b>, & Demir, I. 2020. An Ethical Decision-Making Framework with Serious Gaming: Smart Water Case Study on Flooding. <i>Journal of Hydroinformatics</i>. EarthArXiv. June 23.'
 ---

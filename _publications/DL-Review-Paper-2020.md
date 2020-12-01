@@ -1,6 +1,5 @@
 ---
-title: "A Comprehensive Review of Deep Learning Applications
-in Hydrology and Water Resources"
+title: "A Comprehensive Review of Deep Learning Applications in Hydrology and Water Resources"
 collection: publications
 permalink: /publication/DL-Review-Paper-2020
 excerpt: 'In this paper we provide a comprehensive review of deep learning applications in hydrology and water resources from 2018 through April of 2020.'
