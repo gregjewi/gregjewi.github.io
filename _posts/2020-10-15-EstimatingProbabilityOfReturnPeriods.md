@@ -77,6 +77,8 @@ The table below shows the probability that a flood of various sizes will occur a
 
 The graph below shows how these probabilities grow over the course of 30 years.
 
+![Excedance probability curves for different probabilities over 30 years.](https://gregjewi.github.io/images/FloodExcedanceCurves.svg)
+
 **Footnote**: 
 You may be asking, how does one estimate the flood extent for an event with 1% chance of happening every year?
 Great question.
