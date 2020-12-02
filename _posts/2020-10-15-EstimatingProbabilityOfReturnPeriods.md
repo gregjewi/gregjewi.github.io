@@ -1,7 +1,7 @@
 ---
-title: 'Estimating the Probability a Flood Occuring over the Length of Your Mortgage'
+title: 'Estimating the Probability a Flood Occurs over the Length of Your Mortgage'
 date: 2020-10-15
-permalink: /posts/2020/10/15/Estimating-the-Probability-a-Flood-Occuring-over-the-Length-of-Your-Mortgage
+permalink: /posts/2020/10/15/Estimating-the-Probability-a-Flood-Occurs-over-the-Length-of-Your-Mortgage
 tags:
   - Statistics
   - Flooding
@@ -17,9 +17,15 @@ If at some point you ever want to buy a house near water, a variation of this qu
 
 In this post we will calculate the chance of an event happening, ie. the chance your beautiful riverside property floods over the life of your 30-year mortgage.
 We will do this using our understanding of probability and statistics.
+The result will be a pretty figure and useful table you can return to when you want to understand the likelihood of something happening.
+As a tl;dr, I'll put them here at the top too:
+
+<img src="https://gregjewi.github.io/images/flood-stats-table.png">
+
+<img src="https://gregjewi.github.io/images/FloodExcedanceCurves.svg">
 
 ## Laying the groundwork
-In my experience the question of probability of flood exceedance is a great example of where calculating the probability of something **not** happening is more intuitive and easier to understand.
+In my experience the question of understanding the probability of flood exceedance is a great example of where calculating the probability of something **not** happening is more intuitive and easier to understand.
 It also shows how flood terminology obscures/confuses the probabilistic nature of estimating a chance of flooding.
 
 ## Flood Events, Return Periods, and Probability
@@ -33,21 +39,24 @@ or
 *"The city updated their flood maps to include our house in the 100-year floodplain"*
 
 Do you know what is *really* meant by the term "100-year Flood"?
-It is **NOT** the case that this event will only happen once every 100 years.
+It is **NOT** the case that this event will *only* happen once every 100 years.
 
 **Definition**: a "X-year Flood" conveys that *in any given year* there is a $\frac{1}{X}$ chance that a flood event of that magnitude will occur. 
-The name 100-year Flood conveys that there is a $\frac{1}{100}$, or 0.01, chance of that magnitude event occurring; for a 50-year flood, 0.02; 2-year flood, 0.5.
+The name 100-year Flood conveys that there is a $\frac{1}{100}$, or 0.01 (1%,) chance of that magnitude event occurring; for a 50-year flood, 0.02 (2%); 2-year flood, 0.5 (50%.)
 
 Of course, all of these probabilities describe the chance an event happens *in a single year*.
-Next, let us calculate the probability of an event occurring over multiple years.
+What is more helpful, is knowing the probability that an event occurs at least once over multiple years.
+Let's calculate that.
 
 ## Formulating Exceedance Probability
-We must first assume that the probabilities of flooding each year are independent and stationary.
+To make this calculation tractable, we first make some assumptions.
+(This is not just me making these assumptions, a lot of engineering design calculations are based upon these assumptions.)
+We assume that the probabilities of flooding each year are *independent* and *stationary*.
 Independence means that the probability of occurrence of a certain size flood in one year does not change the probability of a flood in any other years.
 Stationary means that the probability does not change over time; i.e. in 30 years the probability and size of a 100-year flood will be the same as today.
 
-Next, we must reconsider the question.
-We want to know what the probability is of a certain sized flood happening *at least once* over $n$ consecutive years.
+Next, we must reconsider the question:
+we want to know what the probability is of a certain sized flood happening *at least once* over $n$ consecutive years.
 The complement of this question would be:
 
 *What is the probability that a flood of size X **does not** occur during the next $n$ consecutive year?*
@@ -72,8 +81,10 @@ Now we can take its complement to determine the probability that a flood of size
 $$P(X < x)_{n} = 1 - \left(1 - P(X < x)\right)^{n}$$
 
 ## Calculating Exceedance Probabilities
-Equation in hand, we can plug in any values we want.
+Equation in hand, we can plug in any combination values we are interested in!
 The table below shows the probability that a flood of various sizes will occur at least once over a 30 year period.
+
+<img src="https://gregjewi.github.io/images/flood-stats-table.png">
 
 The graph below shows how these probabilities grow over the course of 30 years.
 
@@ -82,5 +93,5 @@ The graph below shows how these probabilities grow over the course of 30 years.
 **Footnote**: 
 You may be asking, how does one estimate the flood extent for an event with 1% chance of happening every year?
 Great question.
-You take historical streamflow data and fit it to a known statistical distribution.
-You can then estimate the flood extent from the derived distribution.
+I might write about that in the future.
+Stay tuned.
