@@ -25,8 +25,8 @@ Please enjoy, and feel free to reach out for questions.
 		<td>WE<sup>2</sup></td>
 		<td>GLWA</td>
 	</tr>
-	<tr colspan="3">
-		<td>
+	<tr>
+		<td colspan="3">
 			<img src="https://gregjewi.github.io/images/PANO_Santarem.jpg" alt="Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.">
 		</td>
 	</tr>
