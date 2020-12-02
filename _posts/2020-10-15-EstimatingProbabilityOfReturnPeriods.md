@@ -90,6 +90,10 @@ The graph below shows how these probabilities grow over the course of 30 years.
 
 <img src="https://gregjewi.github.io/images/FloodExcedanceCurves.svg">
 
+You now can determine the chances your house will flood over any length of time for any size flood. 
+This, however, will not help you build a castle on a swamp. 
+For that, you will need to consult [this guy](https://youtu.be/w82CqjaDKmA).
+
 **Footnote**: 
 You may be asking, how does one estimate the flood extent for an event with 1% chance of happening every year?
 Great question.

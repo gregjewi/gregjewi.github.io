@@ -18,8 +18,15 @@ I am interested in problems at the intersection of people, technology, and water
 Within these pages you can learn more about my professional pursuits.
 Please enjoy, and feel free to reach out for questions.
 
-<figure>
-	<img src="https://gregjewi.github.io/images/PANO_Santarem.jpg" alt="Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.">
-	<figcaption>Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.</figcaption>
-</figure>
-
+<table>
+	<th colspan="3">Some Projects</th>
+	<tr>
+		<td>HLM</td>
+		<td>WE<sup>2</sup></td>
+		<td>GLWA</td>
+	</tr>
+	<tr colspan="3">
+		<img src="https://gregjewi.github.io/images/PANO_Santarem.jpg" alt="Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.">
+	</tr>
+	
+</table>
