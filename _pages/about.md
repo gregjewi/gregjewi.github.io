@@ -19,7 +19,7 @@ Within these pages you can learn more about my professional pursuits.
 Please enjoy, and feel free to reach out for questions.
 
 <figure>
-	<img src="https://gregjewi.github.io/images/PANO_Santarem" alt="Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.">
+	<img src="https://gregjewi.github.io/images/PANO_Santarem.jpg" alt="Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.">
 	<figcaption>Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.</figcaption>
 </figure>
 
