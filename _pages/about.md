@@ -28,7 +28,7 @@ Please enjoy, and feel free to reach out for questions.
 		<td style="border: hidden;width: 33%;">
 			WE<sup>2</sup>
 			<br>
-			<img src="https://gregjewi.github.io/images/WE2-1.jpg" alt="Water Ethics Web Engine">
+			<img src="https://gregjewi.github.io/images/WE2-1.svg" alt="Water Ethics Web Engine">
 		</td>
 		<td style="border: hidden;width: 33%;">
 			GLWA<br>
