@@ -21,12 +21,12 @@ Please enjoy, and feel free to reach out for questions.
 <table style="text-align: center;">
 	<th style="text-align: center;" colspan="3">Some Projects</th>
 	<tr>
-		<td>HLM</td>
-		<td>WE<sup>2</sup></td>
-		<td>GLWA</td>
+		<td style="border: hidden;">HLM</td>
+		<td style="border: hidden;">WE<sup>2</sup></td>
+		<td style="border: hidden;">GLWA</td>
 	</tr>
 	<tr>
-		<td colspan="3">
+		<td style="border: hidden;" colspan="3">
 			<img src="https://gregjewi.github.io/images/PANO_Santarem.jpg" alt="Sunset on the Tapajos-Amazon Confluence. Santarem, Brazil.">
 		</td>
 	</tr>
