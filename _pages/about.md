@@ -18,8 +18,8 @@ I am interested in problems at the intersection of people, technology, and water
 Within these pages you can learn more about my professional pursuits.
 Please enjoy, and feel free to reach out for questions.
 
-<table>
-	<th colspan="3">Some Projects</th>
+<table style="text-align: center;">
+	<th style="text-align: center;" colspan="3">Some Projects</th>
 	<tr>
 		<td>HLM</td>
 		<td>WE<sup>2</sup></td>
