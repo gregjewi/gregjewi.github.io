@@ -15,6 +15,19 @@ Education
 * M.S.E. in Environmental Engineering, University of Michigan, 2015
 * Ph.D in Civil and Environmental Engineering, University of Iowa, 2022 (expected)
 
+Awards
+======
+* 2020 - AGU Student Travel Grant
+* 2020 - CGRER Graduate Student Travel Grant
+* 2019 - Enhancing Ethical Context in the Engineering Curriculum (University of Iowa, internal) 
+* 2018 - LIFT Intelligent Water Systems Challenge, Grand Prize
+* 2017 - GZA Shareholder's Grant
+* 2013 - Wallenberg Fellowship, Finalist (University of Michigan, Internal)
+* 2013 - Barger Leadership Institute Student Project Grant (University of Michigan, Internal)
+* 2012 - Davis Projects For Peace Grant
+* 2012 - Barger Leadership Institute Student Project Grant (University of Michigan, Internal)
+* 2011 - Chevron Industry Scholarship
+
 Work experience
 ======
 * 2019 - Current: PhD Student, [Hydroinformatics Lab at the University of Iowa](https://hydroinformatics.uiowa.edu/#)
@@ -43,14 +56,17 @@ Work experience
   *  Analyzed and characterized CHARM’s ability to reproduce
 statistically similar results to observed temperature recordings in both air temperature and water
 column temperature.
-  
+
+Leadership and Service
+======
+* Vice President, Juara Foundation
+* Vice President, Students of IIHR
+
 Skills and Languages
 ======
-* Computers
-  * Python, JavaScript, PHP, HTML, CSS, MATLAB
-* Humans
-  * English
-  * Portuguese
+* Computers: Python, JavaScript, PHP, HTML, CSS, MATLAB
+* Humans: English, Portuguese
+
 
 Publications
 ======
@@ -69,8 +85,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Vice President, Juara Foundation
-* Vice President, Students of IIHR
