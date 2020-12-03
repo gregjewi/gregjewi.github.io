@@ -21,17 +21,18 @@ Please enjoy, and feel free to reach out for questions.
 <table style="text-align: center;">
 	<th style="text-align: center; border: hidden;" colspan="3">Spotlight</th>
 	<tr>
-		<td style="border: hidden;width: 33%;">
-			Web HLM
-			<img src="https://gregjewi.github.io/images/WebHLM-color.png" alt="Client-side hydrology">
-		</td>
-		<td style="border: hidden;width: 33%;">
-			WE<sup>2</sup>
+		<td style="border: hidden;width: 33%; vertical-align: top;">
+			<b>WE<sup>2</sup></b>
 			<br>
 			<img src="https://gregjewi.github.io/images/WE2-1.svg" alt="Water Ethics Web Engine">
 		</td>
-		<td style="border: hidden;width: 33%;">
-			GLWA<br>
+		<td style="border: hidden;width: 33%; vertical-align: top;">
+			<b>Web HLM</b>
+			<img src="https://gregjewi.github.io/images/WebHLM-color.png" alt="Client-side hydrology">
+		</td>
+		<td style="border: hidden;width: 33%; vertical-align: top;">
+			<b>GLWA</b>
+			<br>
 			<img src="https://gregjewi.github.io/images/Conner-Creek-RTB.jpg" alt="Conner Creek Retention Basin"></td>
 	</tr>
 	<tr>
