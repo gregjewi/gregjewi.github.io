@@ -19,7 +19,7 @@ Within these pages you can learn more about my professional pursuits.
 Please enjoy, and feel free to reach out for questions.
 
 <table style="text-align: center;">
-	<th style="text-align: center;" colspan="3">Some Projects</th>
+	<th style="text-align: center; border: hidden;" colspan="3">Some Projects</th>
 	<tr>
 		<td style="border: hidden;">HLM</td>
 		<td style="border: hidden;">WE<sup>2</sup></td>
