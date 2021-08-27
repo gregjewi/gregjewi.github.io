@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<!-- {% include slideshow.html %} -->
+
 Hey!
 Thanks for visiting this corner of the internet.
 
