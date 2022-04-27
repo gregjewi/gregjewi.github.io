@@ -17,6 +17,7 @@ Education
 
 Awards
 ======
+* 2022 - Social Justice Award, College of Engineering Research Day
 * 2020 - Iowa Water Center Graduate Research Award
 * 2020 - AGU Student Travel Grant
 * 2020 - CGRER Graduate Student Travel Grant
