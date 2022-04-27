@@ -1,6 +1,6 @@
 ---
 title: "HLM-Web"
-excerpt: "A simulation engine for rainfall-runoff modelling in JavaScript.<br/><img src='/images/GraphicalAbstract.PNG'>"
+excerpt: "A simulation engine for rainfall-runoff modelling in JavaScript.<br/><img src='/images/GraphicalAbstract.PNG' style='max-heigh: 300px;'>"
 collection: portfolio
 ---
 

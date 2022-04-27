@@ -1,6 +1,6 @@
 ---
 title: "Spotiflood"
-excerpt: "Sonification of Streamflow Data<br><img src='/images/spotiflood.png'>"
+excerpt: "Sonification of Streamflow Data<br><img src='/images/spotiflood.png' style='max-heigh: 300px;'>"
 collection: portfolio
 ---
 

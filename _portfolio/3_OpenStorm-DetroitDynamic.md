@@ -1,6 +1,6 @@
 ---
 title: "Open Storm Detroit Dynamic"
-excerpt: "Improving decision support for metro Detroit's stormwater conveyance network.<br><img src='/images/glwa-partners.png'>"
+excerpt: "Improving decision support for metro Detroit's stormwater conveyance network.<br><img src='/images/glwa-partners.png' style='max-heigh: 300px;'>"
 collection: portfolio
 ---
 

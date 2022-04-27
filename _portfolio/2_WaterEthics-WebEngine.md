@@ -1,6 +1,6 @@
 ---
 title: "Web Ethics Web Engine"
-excerpt: "Ethical decision making for smart water systems.<br/><img src='/images/we2-fig1.png'>"
+excerpt: "Ethical decision making for smart water systems.<br/><img src='/images/we2-fig1.png' style='max-heigh: 300px;'>"
 collection: portfolio
 ---
 
