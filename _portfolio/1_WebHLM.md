@@ -5,13 +5,13 @@ collection: portfolio
 ---
 
 Interactive Hydrological Modelling and Simulation on Client-Side Web Systems
-=======================
-<i>an operational rainfall-runoff model and simulation engine in JavaScript</i>
+--------
 
 ![](/images/WebHLM-edu-results.png)
+<i>an operational rainfall-runoff model and simulation engine in JavaScript</i>
 
-HLM-Web is a simulation engine completely developed using web standards.
-Capable of running full-scale hydrologic models in the browser, HLM-Web is a new alternative for web-based simulation in hydrology.
+HLM-Web is a simulation engine capable of running full-scale hydrological models natively in any browser.
+Completely developed using modern web standards, HLM-Web is a new alternative for web-based simulation in hydrology.
 
 Highlights
 -----------

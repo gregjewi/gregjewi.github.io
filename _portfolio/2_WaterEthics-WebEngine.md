@@ -1,22 +1,22 @@
 ---
 title: "Web Ethics Web Engine"
-excerpt: "Ethical decision making for smart water systems.<br/><img src='/images/500x300.png'>"
+excerpt: "Ethical decision making for smart water systems.<br/><img src='/images/we2-fig1.png'>"
 collection: portfolio
 ---
 
-Water Ethics Web Engine: an ethical decision-making framework with serious gaming
-========
-<i>a web framework to incorporate voting-based ethical and normative preferences into smart water decision support</i>
+A web framework with serious gaming for ethical decision making
+--------
 
-![](/images/we2-fig1.png)
+![](/images/3mt_final.png)
+<i>Harness crowd intelligence for decision support in smart water systems.</i>
 
-With increasing deployment of smart sensors and controls, water systems will have ever-greater potential to effect human lives.
-Yet, humans will be further distanced from decisions. 
-Combined, these trends challenge decision-support tools to incorporate the concepts of ethical and normative expectations.
+With increasing deployment of smart sensors and controls, water systems will have greater potential to effect human lives.
+Yet, humans will be further distanced from decisions due to these new technological and algorithmic layers. 
+Combined, these trends challenge water professionals to incorporate concepts of ethics and normative preferences into decision-support tools.
 
 Water Ethics Web Engine $(WE)^2$ is an integrated and generalized web framework to incorporate voting-based ethical and normative preferences into water resources decision support.
 
-Preliminary testing indicates that the framework can capture group ‘wisdom’ within learned models to use in decision making.
+Preliminary testing indicates that the framework can capture crowd 'intelligence' within learned models to use in decision making.
 
 
 [**Try $(WE)^2$.**](https://hydroinformatics.uiowa.edu/lab/we2/sampleBuild/)
