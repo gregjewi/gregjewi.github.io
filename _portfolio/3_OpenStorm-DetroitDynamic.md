@@ -1,6 +1,6 @@
 ---
 title: "Open Storm Detroit Dynamic"
-excerpt: "Improving decision support for metro Detroit's stormwater conveyance network.<br><img src='/images/glwa-partners.png' style='max-heigh: 300px;'>"
+excerpt: "Improving decision support for metro Detroit's stormwater conveyance network.<br><img src='/images/glwa-partners.png' style='max-height: 300px;'>"
 collection: portfolio
 ---
 
@@ -15,11 +15,16 @@ As part of this effort, a subsection  of the GDRSS (the eastside assets of Fairv
 Preliminary results showed the potential to lower CSO discharge volume through the application of the novel real-time control algorithms.
 This work was presented at WEFTEC 2018 and was awarded the grand prize in the LIFT Intelligent Water Systems Challenge.
 
+![](/images/Open-StormDetroitDynamics.png)
+
 Current work focuses on providing weather and system forecast *information*, and not data, to regional stormwater operators.
 Through rounds of interviews with stakeholders across the region, we are developing a webtool that provides currated information to assist in stormwater operations.
 
+![](/images/ACM-CHI-2022-Figure-4.png)
+<i>Figure Credit: Jacquelyn Schmidt</i>
+
 Specs
 --------
-**Language(s)** : Python, SVG/XML, HTML, JavaScript
-**Stack**       : AWS EB, AWS S3, InfluxDB, Grafana, Anvil
-**Methods**     : Real-time Control, Genetic Algorithm Optimization, Interaction Design
+- **Language(s)** : Python, SVG/XML, HTML, JavaScript
+- **Stack**       : AWS EB, AWS S3, InfluxDB, Grafana, Anvil
+- **Methods**     : Real-time Control, Genetic Algorithm Optimization, Interaction Design

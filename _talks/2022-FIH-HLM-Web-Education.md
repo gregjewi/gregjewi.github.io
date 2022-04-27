@@ -1,0 +1,11 @@
+---
+title: "A Client-Side Web Framework for Rainfall-Runoff Modelling in a Hybrid Learning Context"
+collection: talks
+type: "Oral Presentation"
+permalink: /talks/2022-FIH-HLM-Web-Education
+venue: "AGU Frontiers in Hydrology"
+date: 2022-06-23
+location: "San Juan, Puerto Rico"
+---
+
+Using hydrological models in classroom settings face numerous barriers, many of which stem from the limited time to teach both the scientific material and vocational tools (i.e., a modelling software,) during a course. For example, data preparation and model development are integral, time consuming tasks when using models in professional settings, yet may not provide meaningful educational opportunities as part of a hydrology curriculum. Towards the goal of using less class time teaching tools and more time exploring hydrologic concepts, we present a client-side web framework for rainfall-runoff modelling in hybrid learning contexts. At the core of our application is a client-side rainfall-runoff model, HLM-Web. To address the barriers to modelling in education, we designed the web application to extend HLM-Web such that it minimizes many time-intensive modelling tasks. For example, we have prepared input data for five basins of varying size (from 10 km2 to 12,000 km2,) and allow users to seamlessly select from these with the click of a button. Likewise, users can then interactively select between constant or variable rainfall-runoff processes and alter parameter values of the model using slider elements. The application also includes a rainfall forcing generator, which allows for a variety of inputs to be quickly generated. Once a model is prepared and the simulation is complete, hydrograph visualizations appear along with data export capabilities. Notably, all features and computation of the application are performed client-side. The application was developed with iterative feedback from course instructors such that it would supplement university-level hydrology course curricula. The application framework was piloted at the University of Iowa and University of Manitoba. Finally, we demonstrate many educational exercises enabled by the framework.

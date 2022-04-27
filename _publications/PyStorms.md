@@ -1,0 +1,12 @@
+---
+title: "pystorms: A simulation sandbox for the development and evaluation of stormwater control algorithms"
+collection: publications
+permalink: /publication/PyStorms
+excerpt: 'This paper introduces pystorms, a Python-based simulation sandbox that facilitates the quantitative evaluation and comparison of control strategies for smart stormwater control.'
+date: 2021-10-23
+venue: 'Arxiv Preprint'
+paperurl: 'https://doi.org/10.48550/arXiv.2110.12289'
+citation: 'Rimer SP, Mullapudi A, Troutman SC, <b>Ewing G</b>, Bowes BD, Akin AA, Sadler J, Kertesz R, McDonnell B, Montestruque L, Hathaway J. pystorms: A simulation sandbox for the development and evaluation of stormwater control algorithms. arXiv preprint arXiv:2110.12289. 2021 Oct 23.'
+---
+
+Recent accessibility of affordable sensing technologies, microcontrollers, and wireless communication technology has made it possible for stormwater systems to be retrofitted with an assortment of sensors and actuators. These smart stormwater systems have enabled the real-time sensing of their surrounding environmental dynamics, and subsequently, provide the basis for autonomous and adaptive operational control strategies. Additionally, these systems allow for inexpensive and minimally-invasive stormwater control interventions (e.g. hydraulic valve operated by cellularly-connected actuator) in lieu of new construction. However promising this area of smart stormwater control, there still remain barriers -- for experts and novices alike -- to access a set of shared tools and methods for investigating, developing, and contributing to it. In an effort to make smart stormwater control research more methodical, efficient, and accessible, we present pystorms, a Python-based simulation sandbox that facilitates the quantitative evaluation and comparison of control strategies. The pystorms simulation sandbox comes with (i) a collection of real world-inspired stormwater control scenarios on which any number of control strategies can be applied and tested via (ii) an accompanying Python programming interface coupled with a stormwater simulator. For the first time, pystorms enables rigorous and efficient evaluation of smart stormwater control methodologies across a diverse set of watersheds with only a few lines of code. We present the details of pystorms here and demonstrate its usage by applying and evaluating two stormwater control strategies. 
