@@ -1,0 +1,11 @@
+---
+title: Client-side web-based model coupling using basic model interface for hydrology and water resources
+collection: publications
+permalink: /publication/BMI-JS-2024
+excerpt: In this paper we introduce an implementation of the Basic Model Interface (BMI) in JavaScript. Further, we use this implementation two client-side hydrological applications (HydroLang and HLM-Web) to perform rainfall–runoff simulations of historical events with rainfall data and a client-side hydrological model as a case study demonstration.
+date: 2024-02-01
+venue: Journal of Hydroinformatics
+paperurl: https://doi.org/10.2166/hydro.2024.212
+citation: '<b>Ewing, G.</b>, Ramirez, C. E., Vaidya, A., Demir, I.; Client-side web-based model coupling using basic model interface for hydrology and water resources. Journal of Hydroinformatics 1 February 2024; 26 (2): 494–502. doi: https://doi.org/10.2166/hydro.2024.212.'
+---
+A recent trend in hydroinformatics has been the growing number of data, models, and cyber tools, which are web accessible, each aiming to improve common research tasks in hydrology through web technologies. Coupling web-based models and tools holds great promise for an integrated environment that can facilitate community participation, collaboration, and scientific replication. There are many examples of server-side, hydroinformatics resource coupling, where a common standard serves as an interface. Yet, there are few, if any, examples of client-side resource coupling, particularly cases where a common specification is employed. Toward this end, we implemented the basic model interface (BMI) specification in the JavaScript programing language, the most widely used programing language on the web. By using BMI, we coupled two client-side hydrological applications (HydroLang and HLM-Web) to perform rainfall–runoff simulations of historical events with rainfall data and a client-side hydrological model as a case study demonstration. Through this process, we present how a common and often tedious task – the coupling of two independent web resources – can be made easier through the adoption of a common standard. Furthermore, applying the standard has facilitated a step toward the possibility of client-side ‘Model as a Service’ for hydrological models.

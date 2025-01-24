@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ewwwing"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Greg Ewing"
   avatar           : "greg300.jpg"
   bio              : "Hydrologist, Environmental Engineer, Taco Enthusiast; University of Iowa & University of Michigan"
-  location         : "Iowa City, IA"
+  location         : "Berkley, MI"
   employer         : "University of Iowa"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BhJU3MgAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gregjewi/"
   orcid            : "https://orcid.org/0000-0002-0106-7712"
   pinterest        :
   soundcloud       :

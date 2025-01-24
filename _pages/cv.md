@@ -13,44 +13,17 @@ Education
 ======
 * B.S.E. in Civil and Environmental Engineering, University of Michigan, 2013
 * M.S.E. in Environmental Engineering, University of Michigan, 2015
-* Ph.D in Civil and Environmental Engineering, University of Iowa, 2023 (expected)
-
-Awards
-======
-* 2022 - Social Justice Award, College of Engineering Research Day
-* 2020 - Iowa Water Center Graduate Research Award
-* 2020 - AGU Student Travel Grant
-* 2020 - CGRER Graduate Student Travel Grant
-* 2019 - Enhancing Ethical Context in the Engineering Curriculum (University of Iowa, internal) 
-* 2018 - LIFT Intelligent Water Systems Challenge, Grand Prize
-* 2017 - GZA Shareholder's Grant
-* 2013 - Wallenberg Fellowship, Finalist (University of Michigan, Internal)
-* 2013 - Barger Leadership Institute Student Project Grant (University of Michigan, Internal)
-* 2012 - Davis Projects For Peace Grant
-* 2012 - Barger Leadership Institute Student Project Grant (University of Michigan, Internal)
-* 2011 - Chevron Industry Scholarship
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Ph.D in Civil and Environmental Engineering, University of Iowa, Summer 2025 (expected)
 
 Work experience
 ======
 * 2019 - Current: PhD Student, <b>[Hydroinformatics Lab at the University of Iowa](https://hydroinformatics.uiowa.edu/#)</b>
+
+* 2023-2025: Senior Hydroinformatics Engineer, Xylem Inc.
+  * Senior technical leader of the Wastewater Network Optimization, North America group.
+  * Responsible for delivery of engineering solutions to water utilities, coupling traditional H&H and stormwater modeling technicques with a diverse array of data-driven methods, e.g., neural networks for inflow prediction at wastewater treatment facilities and machine learning to predict sanitary overflows within the drainage system.
+  * Main developer of multiple packages for urban hydrology analytics
+  * Improved group-wide processes for delivery and production via implementation of advanced logging features and internal QA throughout analytics and project stack. Significantly lowered downtime and debugging of group's real-time analytics offerings and client-specific project logic.
 
 * 2017 - 2019: Research Assistant, [Real-Time Water Systems Lab](http://107.170.79.190/)
   * Studied the application of control algorithms to assist in decision support during wet weather events within the Greater Detroit Regional Stormwater System for the purpose of reducing combined sewer overflows. 
@@ -76,6 +49,24 @@ Work experience
 statistically similar results to observed temperature recordings in both air temperature and water
 column temperature.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills and Languages
 ======
 * Computers: Python, JavaScript, PHP, HTML, CSS, MATLAB
@@ -85,3 +76,18 @@ Leadership and Service
 ======
 * President, Students of IIHR
 * Vice President, [Juara Foundation](https://juarafound.org/)
+
+Awards
+======
+* 2022 - Social Justice Award, College of Engineering Research Day
+* 2020 - Iowa Water Center Graduate Research Award
+* 2020 - AGU Student Travel Grant
+* 2020 - CGRER Graduate Student Travel Grant
+* 2019 - Enhancing Ethical Context in the Engineering Curriculum (University of Iowa, internal) 
+* 2018 - LIFT Intelligent Water Systems Challenge, Grand Prize
+* 2017 - GZA Shareholder's Grant
+* 2013 - Wallenberg Fellowship, Finalist (University of Michigan, Internal)
+* 2013 - Barger Leadership Institute Student Project Grant (University of Michigan, Internal)
+* 2012 - Davis Projects For Peace Grant
+* 2012 - Barger Leadership Institute Student Project Grant (University of Michigan, Internal)
+* 2011 - Chevron Industry Scholarship
